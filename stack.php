@@ -1,7 +1,7 @@
 <?php 
 class Stack {
 	 protected $stack;
-     protected $limit;
+         protected $limit;
 
 	 public function __construct($limit = 10, $initial = array())
 	{
